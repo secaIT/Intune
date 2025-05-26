@@ -1,0 +1,37 @@
+{
+    "pinnedList": [
+        {
+            "packagedAppId": "Microsoft.CompanyPortal_8wekyb3d8bbwe!App"
+        },
+        {
+            "desktopAppLink": "%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk"
+        },
+        {
+            "desktopAppLink": "%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook (classic).lnk"
+        },
+        {
+            "desktopAppLink": "%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk"
+        },
+        {
+            "desktopAppLink": "%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk"
+        },
+        {
+            "desktopAppLink": "%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk"
+        },
+        {
+            "desktopAppLink": "%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote.lnk"
+        },
+        {
+            "packagedAppId": "MSTeams_8wekyb3d8bbwe!MSTeams"
+        },
+        {
+            "desktopAppLink": "%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Acrobat.lnk"
+        },
+        {
+            "desktopAppLink": "%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk"
+        },
+        {
+            "packagedAppId": "secahamburg.sharepoint.com-62540E1F_p7dsm0nbeykhg!App"
+        }
+    ]
+}
